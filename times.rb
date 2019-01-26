@@ -1,7 +1,4 @@
-def using_times
-	#your code here
+def times("spell")
+7.times do
+    puts "Wingardium Leviosa"
 end
-
-
-
-
